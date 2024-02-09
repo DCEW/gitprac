@@ -1,6 +1,8 @@
 ---
 title: "myquarto"
-author: "Claire Welsh"
+
+author: "person B"
+
 format: html
 editor: visual
 embed-resources: true
