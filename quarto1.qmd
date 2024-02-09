@@ -1,6 +1,8 @@
 ---
 title: "myquarto"
+
 author: "person B"
+
 format: html
 editor: visual
 embed-resources: true
